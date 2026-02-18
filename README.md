@@ -1,6 +1,6 @@
 # Modified Whatsapp-API
 <p align='center'>
-  <img src="https://files.catbox.moe/rhm9rt.webp" width="172">
+  <img src="https://files.catbox.moe/pbrued.jpg" width="172">
 </p>
 
 --- 
@@ -113,4 +113,3 @@ await client.relayMessage(m.chat, {
   }
 })
 ```
-Follow https://t.me/TenkaWaBails kalau mau liat type message yg lain :v
